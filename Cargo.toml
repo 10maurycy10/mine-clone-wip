@@ -1,0 +1,15 @@
+[package]
+name = "mine-clone"
+version = "0.1.0"
+authors = ["10maurycy10 <10maurycy10@users.noreply.github.com>"]
+edition = "2018"
+description = "A WIP voxle game"
+readme = "README.md"
+homepage = "https://github.com/10maurycy10/mine-clone-wip"
+repository = "https://github.com/10maurycy10/mine-clone-wip.git"
+license = "GPL-3+"
+keywords = ["game"]
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
